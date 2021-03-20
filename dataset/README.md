@@ -6,5 +6,6 @@ We list related dataset below
 - SNAP: http://snap.stanford.edu/data/soc-Epinions1.html
 - Book-crossing: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 - Last.fm: http://millionsongdataset.com/lastfm/
-- Douban: https://github.com/fmonti/mgcnn/tree/master/Data/douban
-- Epinions: http://snap.stanford.edu/data/soc-Epinions1.html
+- Dianping food: https://lihui.info/data/dianping/
+- Yelp: https://www.yelp.com/dataset
+- Delicious: https://archive.ics.uci.edu/ml/datasets/DeliciousMIL%3A+A+Data+Set+for+Multi-Label+Multi-Instance+Learning+with+Instance+Labels
