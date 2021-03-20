@@ -4,3 +4,5 @@ We list related dataset below
 - Aminer: https://www.aminer.org/data
 - Amazon: https://jmcauley.ucsd.edu/data/amazon/
 - SNAP: http://snap.stanford.edu/data/soc-Epinions1.html
+- Book-crossing: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+- Last.fm: http://millionsongdataset.com/lastfm/
