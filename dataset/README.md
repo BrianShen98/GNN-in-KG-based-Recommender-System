@@ -6,3 +6,5 @@ We list related dataset below
 - SNAP: http://snap.stanford.edu/data/soc-Epinions1.html
 - Book-crossing: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 - Last.fm: http://millionsongdataset.com/lastfm/
+- Douban: https://github.com/fmonti/mgcnn/tree/master/Data/douban
+- Epinions: http://snap.stanford.edu/data/soc-Epinions1.html
