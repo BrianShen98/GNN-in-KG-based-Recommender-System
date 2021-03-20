@@ -1,4 +1,4 @@
-We list the code for each paper below.
+We list link to paper implementation below.
 
 - Metapath Guided Heterogeneous Graph Neural Network for Intent Recommendation: https://github.com/googlebaba/KDD2019-MEIRec
 - Relation-Aware Graph Convolutional Networks for Agent-Initiated Social E-Commerce Recommendation: https://github.com/xfl15/RecoGCN
